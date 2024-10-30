@@ -1,0 +1,18 @@
+# Ignore system-specific and sensitive directories
+AppData/
+.VirtualBox/
+.android/
+Cookies/
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
+Local Settings/
+My Documents/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore specific editor or OS files
+.DS_Store
+Thumbs.db
